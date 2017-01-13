@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>gov.va.vinci.leo</groupId>
+    <artifactId>EchoExtractor</artifactId>
+    <version>2.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>Echo Concept Extractor</name>
+
+    <organization>
+        <name>Department of Veterans Affairs</name>
+    </organization>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <repositories>
+        <repository>
+            <id>decipher</id>
+            <url>http://decipher.chpc.utah.edu/nexus/content/groups/public</url>
+        </repository>
+    </repositories>
+
+    <developers>
+        <developer>
+            <id>sduvall</id>
+            <name>Scott Duvall</name>
+            <email>scott.duvall@utah.edu</email>
+            <roles>
+                <role>Project Manager</role>
+            </roles>
+            <timezone>-8</timezone>
+        </developer>
+        <developer>
+            <id>rcornia</id>
+            <name>Ryan Cornia</name>
+            <email>ryan.cornia@utah.edu</email>
+            <roles>
+                <role>Architect</role>
+                <role>Development</role>
+            </roles>
+            <timezone>-8</timezone>
+        </developer>
+        <developer>
+            <id>opatterson</id>
+            <name>Olga Patterson</name>
+            <email>olga.patterson@utah.edu</email>
+            <roles>
+                <role>Development</role>
+            </roles>
+            <timezone>-8</timezone>
+        </developer>
+    </developers>
+
+
+    <!-- Dependencies -->
+    <dependencies>
+        <!-- Leo Dependencies -->
+        <!-- Core Leo dependency -->
+        <dependency>
+            <groupId>gov.va.vinci.leo</groupId>
+            <artifactId>leo-base</artifactId>
+            <version>2017.01.2</version>
+        </dependency>
+
+
+        <!-- Leo Bones dependency -->
+        <dependency>
+            <groupId>gov.va.vinci</groupId>
+            <artifactId>leo-annotation-pattern</artifactId>
+            <version>2016.11.0</version>
+        </dependency>
+        <dependency>
+            <groupId>gov.va.vinci</groupId>
+            <artifactId>leo-regex</artifactId>
+            <version>2016.09.0</version>
+        </dependency>
+        <dependency>
+            <groupId>gov.va.vinci</groupId>
+            <artifactId>leo-window</artifactId>
+            <version>2016.05.1</version>
+        </dependency>
+        <dependency>
+            <groupId>gov.va.vinci</groupId>
+            <artifactId>leo-context</artifactId>
+            <version>2016.05.1</version>
+        </dependency>
+        <dependency>
+            <groupId>gov.va.vinci</groupId>
+            <artifactId>leo-lookup-annotator</artifactId>
+            <version>2014.08.0</version>
+        </dependency>
+
+        <!-- Leo Bones dependency end -->
+        <!-- Leo Dependencies end -->
+
+        <!-- Other external dependencies -->
+        <dependency>
+            <groupId>com.microsoft.sqlserver</groupId>
+            <artifactId>sqljdbc4</artifactId>
+            <version>4.0</version>
+        </dependency>
+        <dependency>
+            <groupId>args4j</groupId>
+            <artifactId>args4j</artifactId>
+            <version>2.0.29</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.10</version>
+        </dependency>
+        <!-- Other external dependencies end -->
+    </dependencies>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/desc/</directory>
+            </resource>
+            <resource>
+                <directory>src/main/resources/</directory>
+            </resource>
+            <resource>
+                <directory>config/</directory>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-eclipse-plugin</artifactId>
+                <version>2.9</version>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>copy-dependencies</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>copy-dependencies</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>${project.build.directory}/lib</outputDirectory>
+                            <overWriteReleases>false</overWriteReleases>
+                            <overWriteSnapshots>false</overWriteSnapshots>
+                            <overWriteIfNewer>true</overWriteIfNewer>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>license-maven-plugin</artifactId>
+                <version>1.8</version>
+                <configuration>
+                    <inceptionYear>2017</inceptionYear>
+                    <licenseName>apache_v2</licenseName>
+                    <verbose>true</verbose>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>license.package</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>update-file-header</goal>
+                        </goals>
+                        <configuration>
+                            <roots>
+                                <root>src/main/java</root>
+                                <root>src/main/resources</root>
+                                <root>src/test/java</root>
+                                <root>src/test/resources</root>
+                            </roots>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>

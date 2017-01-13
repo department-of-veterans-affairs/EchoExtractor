@@ -1,0 +1,11 @@
+(m|meters|mm|millimeters|cm|centimeters|g|gm|grams|mg|cc|ml|l|b|ms|msec|millisecond|s|sec|second|m|min|minute|h|hr|hour)((\/|\s+per\s+)(ms|msec|millisecond|s|sec|second|m|min|minute|h|hr|hour))?(2|(\s|-)?sq|(\s|-)?squared?|\p{Nd}|\pN|\^2)?\b
+(%|per ?cent)
+bpm
+ratio\b
+mm\s?\[?hg\]?
+mm\/Hg
+\b1 *\r\n
+beats per minute
+sq\/cm
+#meters\s+per\s+second
+#This is for those cases when there is a superscript squared or cubed. But it causes other errors. cm\S

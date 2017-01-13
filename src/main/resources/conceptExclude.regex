@@ -1,0 +1,49 @@
+#(heart|pulmonary|respiratory)\s+rate
+#blood pressure
+\( ?\d+ ?\) ?(\d| |\-|\*)+
+\b((jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\w*) ?(\d+)( ?,? ?\d+)?
+\b(e|a|s|d|ea)\b(\))?
+\b\d+(\/|-|:)\d+(\/|-|:)\d+\b
+\bage\b
+\bdate\b
+\bdob\b
+\bmrn\b
+\bphone\b
+\d+:\d+:\d+ ?(am|pm)
+\d+\/\d+\/\d+\s+\d+:\d+(:\d+ ?(am|pm)?)?
+abnormalit(y|ies)
+area
+assessment
+assessment\/plan
+blood
+comparison
+conclusion
+date echo report entered
+date of exam
+date report entered
+diagnosis
+dysfunction
+findings
+function
+gallbladder\s+ej\w+\s+fra\w+
+global
+gradient
+impression
+interpretation
+left
+mean
+other conclusion
+overall
+peak
+post
+procedure date\/time
+rate
+ratio
+right
+size
+study date
+summary
+tape
+time
+wall
+thickening

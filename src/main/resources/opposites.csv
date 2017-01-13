@@ -1,0 +1,37 @@
+atria atrial atrium ejection mitral motion mv pulmonary pulmonic regurgitation root thickness tricuspid tv ventricle ventricular,aortic valve mean gradient
+atria atrial atrium ejection mitral motion mv pulmonary pulmonic regurgitation root tricuspid tv ventricle ventricular,aortic valve orifice area
+atria atrial atrium duration ejection mi mitral motion mr mv pulmonary pulmonic root ti tr tricuspid tv ventricle ventricular wave,aortic valve regurgitation
+atria atrial atrium duration ejection mi mitral motion mr mv pulmonary pulmonic root ti tr tricuspid tv ventricle ventricular wave,aortic valve regurgitation peak velocity
+atria atrial atrium duration ejection mi mitral motion mr mv pulmonary pulmonic root regurgitation ti tr tricuspid tv ventricle ventricular,aortic valve stenosis
+ejection ef dimension diameter area motion size regurgitation ar ai mi mr ti tr,blood pressure 
+ai ao aorta aortic atria atrial atrium blood ejection lung motion pulmonic pulmonary respiratory tricuspid ventricle ventricular,e/e prime ratio
+ai ao aorta aortic atria atrial atrium ef ejection mi mitral motion mr mv pulmonary pulmonic systole systolic ti tr tricuspid tv,inter-ventricular septum dimension at end diastole
+ai ao aorta aortic diameter dimention ef ejection mi mitral motion mr mv pulmonary pulmonic regurgitation right rt rv size velocity ventricle ventricular volume,left atrial pressure
+ai ao aorta aortic diastole diastolic ef ejection mi mitral motion mr mv pulmonary pulmonic regurgitation right root rt rv velocity ventricle ventricular volume,left atrium size at end systole
+ai ao aorta aortic atria atrial atrium av ef ejection mi mitral motion mr mv pulmonary pulmonic right rt rv root systole systolic ti tr tricuspid tv valve velocity volume,left ventricular diastolic function
+ai ao aorta aortic atria atrial atrium av ef ejection mi mitral motion mr mv pulmonary pulmonic right root rt rv septum systole systolic ti tr tricuspid tv velocity volume,left ventricular dimension at end diastole
+ai ao aorta aortic atria atrial atrium av ef ejection diastolic ej ef ejection mi mitral motion mr mv pulmonary pulmonic right root rt rv septal septum ti tr tricuspid tv velocity volume,left ventricular dimension at end systole
+ai ao aorta aortic atria atrial atrium av blood diameter dimension diastole diastolic mi mitral motion mr mv pulmonary pulmonic right root rt rv septum ti tr tricuspid tv valve velocity volume,left ventricular ejection fraction
+ai ao aorta aortic atria atrial atrium av blood diameter dimension diastole diastolic mi mitral motion mr mv pulmonary pulmonic right root rt rv septum ti tr tricuspid tv valve velocity volume,left ventricular systolic function
+ai ao aorta aortic atria atrial atrium av ef ejection mi mitral mr mv pulmonary pulmonic right root rt ti tr tricuspid tv valve,left ventricular hypertrophy
+ai ao aorta aortic atria atrial atrium av blood diastole diastolic ef ejection mitral motion mv mr pericardial pulmonary pulmonic pulse respiratory right root rt rv tricuspid ti tr velocity volume,left ventricular posterior wall thickness at end diastole
+ai ao aorta aortic atria atrial atrium av diastole diastolic ef ejection gradient right thickness,lv segmental wall motion abnormalities
+ai ao aorta aortic atria atrial atrium diastole diastolic ef ejection left motion right systole systolic tr tricuspid tv velocity volume,mitral valve function
+ai ao aorta aortic ar atria atrial atrium av diastole diastolic ef ejection leaflets left mitral right systole systolic tr tricuspid tv valve velocity volume,mitral valve leaflets
+ai ao aorta aortic ar atria atrial atrium av blood ef ejection motion pulse respiratory thickness tr tricuspid,mitral valve mean gradient
+ai ao aorta aortic ar atria atrial atrium av blood ef ejection gradient motion pulse respiratory tr tricuspid,mitral valve orifice area
+ai ao aorta aortic ar atria atrial atrium av blood ef ejection gradient motion pulse respiratory tr tricuspid,mitral valve regurgitation
+ai ao aorta aortic ar atria atrial atrium av blood ef ejection pulse respiratory tricuspid tr tv,mitral valve regurgitation peak velocity
+ai ao aorta aortic ar atria atrial atrium av blood ef ejection pulse respiratory tricuspid tv tr,mitral valve stenosis
+ai ao aorta aortic ar artery atria atrial atrium av blood ejection left mi mitral mitral mr mv rate right ti time tr tricuspid tricuspid tv,pulmonary artery pressure
+ai ao aorta aortic ar artery atria atrial atrium av blood ejection pulse respiratory tr tricuspid volume,pulmonary rate
+ai ao aorta aortic ar artery atria atrial atrium av ef ejection left lt lv mi mitral mr mv pressure rate right ti tr tricuspid tv,pulmonary valve insufficiency
+ai ao aorta aortic ar artery atria atrial atrium av blood size dimention diameter ejection left pulmonary respiratory lt ti tr tricuspid tv ventricle ventricular velocity,right atrial pressure
+ai ao aorta aortic ar artery atria atrial atrium av blood left lv lt mi mitral mv pulse respiratory velocity volume ti tr tricuspid tv,right ventricular ejection fraction
+ai ao aorta aortic ar artery atria atrial atrium av blood ef ejection left lt lv mi mitral mv pulse respiratory velocity volume ti tr tricuspid tv,right ventricular dimension end diastole
+ai ao aorta aortic ar artery atria atrial atrium av diastole diastolic ejection left lv lt mitral mi mv respiratory ti tr tricuspid tv,right ventricular systolic function
+ai ao aorta aortic ar artery atria atrial atrium av blood ejection mi mitral mv pulse respiratory velocity volume thickness,tricuspid valve mean gradient
+ai ao aorta aortic ar artery atria atrial atrium av blood ejection mitral mi mv pulse respiratory velocity volume,tricuspid valve orifice area
+ai ao aorta aortic ar artery atria atrial atrium av blood ejection mitral mi mv pulse respiratory,tricuspid valve regurgitation
+ai ao aorta aortic ar artery atria atrial atrium av blood ejection mitral mi mv pulse respiratory,tricuspid valve regurgitation peak velocity
+ai ao aorta aortic area atria atrial atrium av dimension diameter ef ejection mi mitral mr mv pulmonary pulmonic right root rt systole systolic ti tr tricuspid tv valve,e/a ratio

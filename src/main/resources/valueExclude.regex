@@ -1,0 +1,9 @@
+\( ?\d+ ?\) ?(\d| |\-|\*)+
+\b\d+(\/|-|:)\d+(\/|-|:)\d+\b
+\d+\/\d+\/\d+\s+\d+:\d+(:\d+ ?(am|pm)?)?
+\d+:\d+:\d+ ?(am|pm)
+\r\n *\d+\. 
+to
+to ?
+not (seen|meas(ured)?|assessed)
+without

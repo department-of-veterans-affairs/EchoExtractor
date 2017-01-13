@@ -1,0 +1,199 @@
+% ?ivs thick\w*
+(aortic|tricuspid|mitral) valve: +(peak|e|a) velocity
+\bacs\b
+\bao ?v\b
+\bcvp\b
+\bdt\b
+\be ?pnt ?sep ?spn
+\be ?wave
+\be( |-)?peak
+\be1\b
+\bepss\b
+\bivc\b
+\bivrt
+\blap\b
+\blvh\b
+\bpap\b
+pap systolic
+\bmpap\b
+\bpap s\b
+\bpap d\b
+\bpasp\b
+\bpi +end-d +vel\b
+\bpwd\b
+\bpwt\b
+\brap\b
+\bswt\b
+\bvc\b
+ai ?dec ?slope
+ai severity
+ao ?asc ?\(2d\)
+ao ?outflow ?vel ?\(v2\)
+ao ann diam\w*
+ao root dia\w*
+aortic hr
+aortic\s+r.?r
+ar pht
+av ?mg
+av ?pg
+av ?vti
+ava
+ava\(i.d\)
+ava\(v.d\)
+co\(lvot\)
+co\(mod.sp4\)
+cv ?orifice ?area;? ?cont ?eq ?by ?vti
+ddpasp
+e/a ratio
+e:a ?ratio
+e\/e1
+edv\(mod.?sp4\)
+edv\(teich\)
+ef ?\(teich\)
+ef techhozte
+ef trace
+ef\(mod\-sp4\)
+esv\(mod.?sp4\)
+esv\(teich\)
+filling
+fs ?\(chordal\)
+ivs ?ed
+ivs dias th\w*
+ivs: +\(end (diastole|systole)\)
+ivs\/lvpw
+ivsd ?\(2d\)
+l\.a\. pressure
+l\-atrium
+la ?dia ?\(2d\)
+la ?esv ?index
+la ?length ?4ch
+la ?length ?apical ?2ch
+la sys diam\w*
+la\/ao ?ratio
+left\s+ventricle\s+is\s+normal\s+(in\s+)?size
+lv ?e\/a ?tissue ?vel;? ?lateral ?ma ?\(tdi\)
+lv ?e\/a ?tissue ?vel;? ?medial ?ma ?\(tdi\)
+lv ?ef \(modified simpson's\)
+lv ?fs
+lv ?fs ?\(2d\)
+lv ?ivrt
+lv ?mass ?\(m\-m\)
+lv ?mass\(c\)d
+lv ?mass\(c\)di
+lv ?outflow ?tract ?vel ?\(v1\)
+lv ?peak ?dias ?tissue ?vel ?during ?atrial ?systole;? ?lateral ?ma ?\(tdi\)
+lv ?peak ?dias ?tissue ?vel ?during ?atrial ?systole;? ?medial ?ma ?\(tdi\)
+lv ?peak ?early ?dias ?tissue ?vel; ?lateral ?ma ?(tdi)
+lv ?peak ?early ?dias ?tissue ?vel; ?medial ?ma ?(tdi)
+lv ?vol ?s
+lv diam \(dias\)
+lv diam \(sys\)
+lv dias dim\w*
+lv frac sho\w*
+lv fract\. shor\w+
+lv mass indx +m
+lv mean thi\w*
+lv sys dime\w*
+lv vol d
+lv: +\(end (diastole|systole)\)
+lv\s+internal\s+dimension\s+\(diastole\)
+lv\s+internal\s+dimension\s+\(systole\)
+lvas ap4
+lvid ?ed( ?\(chordal\))?
+lvid ?es( ?\(chordal\))?
+lvid \(dias\)
+lvid \(sys\)
+lvid\s\((diastolic|systolic)\)
+lvidd ?\(2d\)
+lvids ?\(2d\)
+lvld ?ap4
+lvls ?ap4
+lvot ?mg
+lvot ?pg
+lvpw ?ed
+lvpw dias t\w*
+lvpwd ?\(2d\)
+lvpwt ed
+mean ?grad;? ?antegrade ?flow
+mitral ?valve ?area\(dopp\)
+mitral ?valve ?area\(echo\)
+mitral\s+e\s+to\s+a\s+ratio
+mm ?hr
+mm ?rr ?int
+mm\s+r-r\s+int
+mr severity
+mv ?peak ?vel\/lv ?peak ?tissue ?vel ?e-wave;? ?lateral ?ma
+mv ?peak ?vel\/lv ?peak ?tissue ?vel ?e-wave;? ?medial ?ma
+mv +e ?to ?ea ?ratio
+mv ap1\/2t 
+mv dt
+mv p1\/2t
+mv pkvel
+mv stroke vol
+mva ?\(p1.?2t\)
+mva ?\(vti\)
+pa ?pr\(accel\)
+post\.? wall
+pulmonary ?s ?wave ?vel
+pv ?a ?dur
+pv ?a ?revs ?dur
+pv ?a ?revs ?vel
+pv ?mg
+pv ?pg
+pv ?vti
+pvar
+pvd
+pvs1
+pw thickness d\w*
+pw: +\(end (diastole|systole)\)
+r\-atrium
+ra ?pressure
+max press grad
+mean press grad
+ra press\w*
+rap systole
+rap\/ivc
+rel wall tx
+rvsp\(tr\)
+s\/d ?ratio
+septal\sthickness\s\(diastole\)
+sv\(lvot\)
+sv\(mod.?sp4\)
+sys press t\w*
+tdi ratio
+tissue ?doppler ?(a|e) ?wave ?velocity
+tr ?pk ?grad
+tr severity
+v ?max
+v1 ?\(lvot ?vel\)
+v1 ?\(lvot ?vmax\)
+v1 ?\(rvot ?vel\)
+v2 ?\(ao ?vel\)
+v2 ?\(av ?vmax\)
+v2 ?\(pv ?vel\)
+v2 ?\(pv ?vmax\)
+v2 ?\/ ?v1
+vti;? ?antegrade +flow
+vti;? ?mean;? ?antegrade +flow
+wave ?vel
+tricuspid regurgitation grade
+mv e max vel
+mv a max vel
+epss
+est\. ejection fraction
+est\. orifice area
+mr vel
+pa pressure
+tr vel
+ai vel
+mitral (e|ea|a) point vel\w*
+(e|a) prime vel\w*
+(lv|la|rv) (dias\w+|syst\w+|stroke) (diam\w*|vol\w*|thick\w*)( m+)?( t\w*)?( c\w*)?
+lv ejection fraction( m+)?( t\w*)?( c\w*)?
+ivs diastolic thickness( m+)?( t\w*)?( c\w*)?
+ivs to pw ratio mm
+aortic root diameter mm
+lv mass mm
+lvmw fs mm
+(pulmon(ary|ic)(\sarter(y|ial))?|pa|left\satrial|la|ra)(\ssystolic)?\s(hypertension|htn)
+pa pr\(accel\)

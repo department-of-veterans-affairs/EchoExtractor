@@ -1,0 +1,5 @@
+\d+(\.\d+)?(\+)?
+(?<!\.)\.\d+
+\d+(\.\d+)? ?\/ ?\d+(\.\d+)?
+\b\d+ ?\+\/- ?\d+
+(>|<|around|approximately|~|greater than|less than|below|above|about|more than|> or equal to|< or equal to) ?\d+(\.\d+)?

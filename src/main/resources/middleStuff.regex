@@ -1,0 +1,4 @@
+(\b(\s+|or|of|is|was|were|for|to|be|by|in|bein|on|are|at|the|a|visual(y)|estimat(e|ed|es)|appears?|show(s|ed)?|reveal(s|ed)?|seen|also|but|has|have|had|overall|calculate(s|d)|assumed|quantified|range|increased?|decreased?|reduced?|markedly|measured)\b)+
+(:|=|-| )+
+(\.){3,}
+# was in the range of

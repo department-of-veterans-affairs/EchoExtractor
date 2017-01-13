@@ -1,0 +1,11 @@
+(\(\s*)?<gov.va.vinci.echo.types.NumericValue/>\s*(\-|to)\s*<gov.va.vinci.echo.types.NumericValue/>(\s*\))?
+\( *(\-|to) *<gov.va.vinci.echo.types.NumericValue/> *\)
+\( *(\-|to) *<gov.va.vinci.echo.types.NumericValue/> *<gov.va.vinci.echo.types.Units/> *\)
+(\( *)?<gov.va.vinci.echo.types.NumericValue/>\s*(\-|to)\s*<gov.va.vinci.echo.types.NumericValue/>\s*<gov.va.vinci.echo.types.Units/>(\s*\))?
+(\(\s*)?<gov.va.vinci.echo.types.NumericValue/>\s*<gov.va.vinci.echo.types.Units/>\s*(\-|to)\s*<gov.va.vinci.echo.types.NumericValue/>\s*<gov.va.vinci.echo.types.Units/>(\s*\))?
+between\s<gov.va.vinci.echo.types.NumericValue/>\sand\s<gov.va.vinci.echo.types.NumericValue/>
+between\s<gov.va.vinci.echo.types.NumericValue/>\sand\s<gov.va.vinci.echo.types.NumericValue/>\s*<gov.va.vinci.echo.types.Units/>
+between\s<gov.va.vinci.echo.types.NumericValue/>\s*<gov.va.vinci.echo.types.Units/>\sand\s<gov.va.vinci.echo.types.NumericValue/>\s*<gov.va.vinci.echo.types.Units/>
+\(<gov.va.vinci.echo.types.NumericValue/> *<gov.va.vinci.echo.types.Units/>\)
+normal <gov.va.vinci.echo.types.NumericValue/> *\- *<gov.va.vinci.echo.types.NumericValue/>
+normal <gov.va.vinci.echo.types.NumericValue/> *\r\n

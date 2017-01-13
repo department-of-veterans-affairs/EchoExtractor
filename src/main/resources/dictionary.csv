@@ -1,0 +1,502 @@
+s d ratio, s/d ratio
+acs,aortic cusp separation
+aortic cusp separation,aortic cusp separation
+ao root area,aortic root area
+ao root diam,aortic root diameter
+ao max pg,aortic valve max pressure gradient
+aortic max grad,aortic valve max pressure gradient
+aortic peak gradient,aortic valve max pressure gradient
+av pg,aortic valve max pressure gradient
+ao mean pg,aortic valve mean gradient
+aortic mean grad,aortic valve mean gradient
+aortic mean gradient,aortic valve mean gradient
+aortic valve mean gradient,aortic valve mean gradient
+aov mean gradient,aortic valve mean gradient
+av mg,aortic valve mean gradient
+ao valve opening,aortic valve orifice area
+aortic orifice area,aortic valve orifice area
+aortic valve area,aortic valve orifice area
+aortic valve orifice area,aortic valve orifice area
+ava,aortic valve orifice area
+ava i d,aortic valve orifice area
+ava v d,aortic valve orifice area
+ai,aortic valve regurgitation
+ai severity,aortic valve regurgitation
+aortic insufficiency,aortic valve regurgitation
+aortic regurgitation,aortic valve regurgitation
+aortic valve insufficiency,aortic valve regurgitation
+aortic valve regurgitation,aortic valve regurgitation
+aortic valvular regurgitation,aortic valve regurgitation
+ar,aortic valve regurgitation
+av insufficiency,aortic valve regurgitation
+av regurgitation,aortic valve regurgitation
+regurgitation of the aortic valve,aortic valve regurgitation
+aortic valve regurgitation peak velocity,aortic valve regurgitation peak velocity
+aortic stenosis,aortic valve stenosis
+aortic stenosis aortic valve area,aortic valve stenosis
+aortic stenosis valve area,aortic valve stenosis
+aortic valve stenosis,aortic valve stenosis
+valvular aortic stenosis,aortic valve stenosis
+blood pressure,blood pressure
+maximum blood pressure,blood pressure
+maximum systolic blood pressure,blood pressure
+systolic blood pressure,blood pressure
+co mod sp4,coronary output
+e pnt sep spn,e point septal separation
+e a prime,e/a ratio
+e a prime ratio,e/a ratio
+e a ratio,e/a ratio
+lateral e a ratio,e/a ratio
+left ventricle e a,e/a ratio
+left ventricle e a ratio,e/a ratio
+lv e a,e/a ratio
+mitral e a,e/a ratio
+mitral e to a ratio,e/a ratio
+mitral inflow e a ratio,e/a ratio
+mv e a,e/a ratio
+mv e a ratio,e/a ratio
+e e',e/e prime ratio
+e e' lat,e/e prime ratio
+e e' lateral,e/e prime ratio
+e e' medial,e/e prime ratio
+e e prime,e/e prime ratio
+e e prime ratio,e/e prime ratio
+e e' ratio,e/e prime ratio
+e prime,e/e prime ratio
+e to e',e/e prime ratio
+e to e prime ratio,e/e prime ratio
+e to e' ratio,e/e prime ratio
+ee',e/e prime ratio
+eprime,e/e prime ratio
+mv e to ea ratio,e/e prime ratio
+edv teich,end diastolic volume
+esv teich,end systolic volume
+fract short,fractional shortening
+fract shortening,fractional shortening
+fraction short,fractional shortening
+fraction shortened rate,fractional shortening
+fraction shortening,fractional shortening
+fractional shortening rate,fractional shortening
+fs,fractional shortening
+lvsf,fractional shortening
+heart rate,heart rate
+maximum heart rate,heart rate
+ivc,inferior vena cava diameter
+end diastolic septal thickness,interventricular septum dimension at end diastole
+interventricular septal thickness diastolic,interventricular septum dimension at end diastole
+interventricular septal thickness during diastole,interventricular septum dimension at end diastole
+interventricular septum diastole,interventricular septum dimension at end diastole
+interventricular septum in diastole,interventricular septum dimension at end diastole
+interventricular septum thickness in diastole,interventricular septum dimension at end diastole
+intraventricular septal thickness in diastole,interventricular septum dimension at end diastole
+iv septum diastole,interventricular septum dimension at end diastole
+iv septum diastolic thickness,interventricular septum dimension at end diastole
+ivs,interventricular septum dimension at end diastole
+ivs diastole,interventricular septum dimension at end diastole
+ivs diastolic,interventricular septum dimension at end diastole
+ivs diastolic thickness cm,interventricular septum dimension at end diastole
+ivs ed,interventricular septum dimension at end diastole
+ivs thick,interventricular septum dimension at end diastole
+ivs thickness d,interventricular septum dimension at end diastole
+ivsd,interventricular septum dimension at end diastole
+left ventricular septum thickness in diastole,interventricular septum dimension at end diastole
+septal thickness,interventricular septum dimension at end diastole
+septal thickness diastole,interventricular septum dimension at end diastole
+septum diastolic thickness,interventricular septum dimension at end diastole
+swt,interventricular septum dimension at end diastole
+ivss,interventricular septum dimension at end systole
+ivs lvpw ratio,ivs/lvpw ratio
+lap,left atrial pressure
+left atrial pressure,left atrial pressure
+left atrial pressures,left atrial pressure
+lt atrial pressure,left atrial pressure
+lt atrial pressures,left atrial pressure
+dilated la chamber,left atrium size at end systole
+la sys diam,left atrium size at end systole
+l atrium,left atrium size at end systole
+la diam,left atrium size at end systole
+la dimension,left atrium size at end systole
+la enlargement,left atrium size at end systole
+left atrial,left atrium size at end systole
+la systolic diameter lx,left atrium size at end systole
+left atrial dimension,left atrium size at end systole
+left atrial enlargement,left atrium size at end systole
+left atrial size,left atrium size at end systole
+left atrium,left atrium size at end systole
+left atrium end systolic,left atrium size at end systole
+left atrium systolic diameter,left atrium size at end systole
+lt atrium,left atrium size at end systole
+contractility,left ventricular contractility
+contractility of the left ventricle,left ventricular contractility
+left ventricular contractility,left ventricular contractility
+overall left sided ventricular contractility,left ventricular contractility
+left ventricular diastolic function,left ventricular diastolic function
+dialated left ventricle,left ventricular dimension at end diastole
+left ventricle diastole,left ventricular dimension at end diastole
+left ventricle internal diameter end diastole,left ventricular dimension at end diastole
+left ventricular cavity,left ventricular dimension at end diastole
+left ventricular cavity dilatation,left ventricular dimension at end diastole
+left ventricular chamber size lvedd,left ventricular dimension at end diastole
+left ventricular diameter during diastole,left ventricular dimension at end diastole
+left ventricular diameter in diastole,left ventricular dimension at end diastole
+left ventricular diastole,left ventricular dimension at end diastole
+left ventricular diastolic diameter,left ventricular dimension at end diastole
+left ventricular diastolic volume,left ventricular dimension at end diastole
+left ventricular dimension diastolic,left ventricular dimension at end diastole
+left ventricular end diastole,left ventricular dimension at end diastole
+left ventricular end diastolic diameter,left ventricular dimension at end diastole
+left ventricular end diastolic dimension,left ventricular dimension at end diastole
+left ventricular end-diastolic diameter,left ventricular dimension at end diastole
+left ventricular end-diastolic dimension,left ventricular dimension at end diastole
+left ventricular end-diastolic dimensions,left ventricular dimension at end diastole
+left ventricular inner diameter in diastole,left ventricular dimension at end diastole
+left ventricular internal diameter in diastole,left ventricular dimension at end diastole
+left ventricular internal dimension at end-diastole,left ventricular dimension at end diastole
+left ventricular internal dimensions diastolic,left ventricular dimension at end diastole
+lv diam dias,left ventricular dimension at end diastole
+lv diastole,left ventricular dimension at end diastole
+lv diastolic diameter,left ventricular dimension at end diastole
+lv diastolic dimension,left ventricular dimension at end diastole
+lv end diastolic dimension,left ventricular dimension at end diastole
+lv end diastolic dimension off axis,left ventricular dimension at end diastole
+lv end diastolic dimension off-line,left ventricular dimension at end diastole
+lv end diastolic dimension offline measurement,left ventricular dimension at end diastole
+lv end-diastolic size,left ventricular dimension at end diastole
+lv end-diastolic volume,left ventricular dimension at end diastole
+lv internal dimension diastole,left ventricular dimension at end diastole
+lv size in diastole,left ventricular dimension at end diastole
+lv1dd,left ventricular dimension at end diastole
+lved,left ventricular dimension at end diastole
+lved in mm,left ventricular dimension at end diastole
+lvedd,left ventricular dimension at end diastole
+lvedd on 2d measures,left ventricular dimension at end diastole
+lveds 2d,left ventricular dimension at end diastole
+lveds mm,left ventricular dimension at end diastole
+lvid,left ventricular dimension at end diastole
+lvid ed,left ventricular dimension at end diastole
+lvid es,left ventricular dimension at end systole
+lvid ed chord psax,left ventricular dimension at end diastole
+lvid ed chordal,left ventricular dimension at end diastole
+lvid ed chordplax,left ventricular dimension at end diastole
+lvid ed max,left ventricular dimension at end diastole
+lvid ed plax,left ventricular dimension at end diastole
+lvidd,left ventricular dimension at end diastole
+lv dias dim,left ventricular dimension at end diastole
+lv sys dime,left ventricular dimension at end systole
+internal diameter systolic,left ventricular dimension at end systole
+left ventricle systole,left ventricular dimension at end systole
+left ventricular diameter during systole,left ventricular dimension at end systole
+left ventricular diameter in systole,left ventricular dimension at end systole
+left ventricular dimension systolic,left ventricular dimension at end systole
+left ventricular end systole,left ventricular dimension at end systole
+left ventricular end systolic diameter,left ventricular dimension at end systole
+left ventricular end systolic dimension,left ventricular dimension at end systole
+left ventricular end-systolic diameter,left ventricular dimension at end systole
+left ventricular end-systolic dimension,left ventricular dimension at end systole
+left ventricular end-systolic dimensions,left ventricular dimension at end systole
+left ventricular internal diameter in systole,left ventricular dimension at end systole
+left ventricular systole,left ventricular dimension at end systole
+left ventricular systolic,left ventricular dimension at end systole
+left ventricular systolic diameter,left ventricular dimension at end systole
+left ventricular systolic volume,left ventricular dimension at end systole
+lv diam sys,left ventricular dimension at end systole
+lv end systole,left ventricular dimension at end systole
+lv end systolic dimension,left ventricular dimension at end systole
+lv end-systole,left ventricular dimension at end systole
+lv end-systolic size,left ventricular dimension at end systole
+lv end-systolic volume,left ventricular dimension at end systole
+lv id end systole,left ventricular dimension at end systole
+lv internal dimension systole,left ventricular dimension at end systole
+lv systole,left ventricular dimension at end systole
+lv systolic diameter,left ventricular dimension at end systole
+lv systolic dimension,left ventricular dimension at end systole
+lv1ds,left ventricular dimension at end systole
+lves in mm,left ventricular dimension at end systole
+lvesd,left ventricular dimension at end systole
+lvid,left ventricular dimension at end systole
+lvids,left ventricular dimension at end systole
+lvids 2d,left ventricular dimension at end systole
+lvids mm,left ventricular dimension at end systole
+a left ventricular ejection fraction,left ventricular ejection fraction
+ef,left ventricular ejection fraction
+ef mod sp4,left ventricular ejection fraction
+ef techhozte,left ventricular ejection fraction
+ef teich,left ventricular ejection fraction
+ef trace,left ventricular ejection fraction
+ef via rao view,left ventricular ejection fraction
+ejcetion fraction,left ventricular ejection fraction
+ejection fraction,left ventricular ejection fraction
+ejection fraction calculated,left ventricular ejection fraction
+ejection fraction of the left ventricle,left ventricular ejection fraction
+ejection fraction overall,left ventricular ejection fraction
+ejection fraction rate,left ventricular ejection fraction
+ejection fracton,left ventricular ejection fraction
+ejection function,left ventricular ejection fraction
+est ef,left ventricular ejection fraction
+gated left ventricular ejection fraction,left ventricular ejection fraction
+global function ef,left ventricular ejection fraction
+global left ventricular ejection fraction,left ventricular ejection fraction
+global lv ejection fraction estimate,left ventricular ejection fraction
+left ejection fraction,left ventricular ejection fraction
+left venticular ejection fraction,left ventricular ejection fraction
+left ventricle ef,left ventricular ejection fraction
+left ventricle ejection fraction,left ventricular ejection fraction
+left ventricle overall systolic function,left ventricular ejection fraction
+left ventricular calculated ejection fraction,left ventricular ejection fraction
+left ventricular ef,left ventricular ejection fraction
+left ventricular ejecdtion fraction,left ventricular ejection fraction
+left ventricular ejection factor,left ventricular ejection fraction
+left ventricular ejection fraction,left ventricular ejection fraction
+left ventricular ejection fraction after stress,left ventricular ejection fraction
+left ventricular ejection fraction during rest,left ventricular ejection fraction
+left ventricular ejection fraction ef,left ventricular ejection fraction
+left ventricular ejection fraction lvef,left ventricular ejection fraction
+left ventricular ejection fraction on a sinus beat,left ventricular ejection fraction
+left ventricular ejection fractions,left ventricular ejection fraction
+left ventricular ejection fracture,left ventricular ejection fraction
+left ventricular function,left ventricular ejection fraction
+left ventricular systolic dysfunction,left ventricular ejection fraction
+left ventricular systolic function,left ventricular ejection fraction
+left ventricular systolic function ef,left ventricular ejection fraction
+lv dysfunction,left ventricular ejection fraction
+lv ef,left ventricular ejection fraction
+lv ef ave mod simpsons,left ventricular ejection fraction
+lv ef2d,left ventricular ejection fraction
+lv ejection fraction,left ventricular ejection fraction
+lv ejection fraction %,left ventricular ejection fraction
+lv est ef,left ventricular ejection fraction
+lv estimated ef,left ventricular ejection fraction
+lv function,left ventricular ejection fraction
+lv gram ef,left ventricular ejection fraction
+lv systolic dysfunction,left ventricular ejection fraction
+lv systolic function,left ventricular ejection fraction
+lv systolic function ef,left ventricular ejection fraction
+lvef,left ventricular ejection fraction
+maintained ef,left ventricular ejection fraction
+overall ef,left ventricular ejection fraction
+overall ejection fraction,left ventricular ejection fraction
+overall estimated ejection fraction,left ventricular ejection fraction
+overall left ventricular ejection fraction,left ventricular ejection fraction
+overall lv function,left ventricular ejection fraction
+overall lvef,left ventricular ejection fraction
+overall preserved left ventricular systolic funcciton,left ventricular ejection fraction
+preserved ejection fraction,left ventricular ejection fraction
+preserved left ventricular ejection fraction,left ventricular ejection fraction
+qualitative ef,left ventricular ejection fraction
+recovered ef,left ventricular ejection fraction
+resting ef,left ventricular ejection fraction
+resting ejection fraction,left ventricular ejection fraction
+resting left ventricular ejection fraction,left ventricular ejection fraction
+resting lv ef,left ventricular ejection fraction
+stress left venticular ejection fraction,left ventricular ejection fraction
+stress left ventricular ejection fraction,left ventricular ejection fraction
+systolic dysfunction,left ventricular ejection fraction
+systolic function,left ventricular ejection fraction
+systolic function lvef,left ventricular ejection fraction
+ventricular ejection fraction,left ventricular ejection fraction
+visual ef,left ventricular ejection fraction
+visually estimated ef,left ventricular ejection fraction
+visually estimated ejection fraction,left ventricular ejection fraction
+visually estimated left ventricular ejection fraction,left ventricular ejection fraction
+left ventricular end diastolic pressure,left ventricular end diastolic pressure
+left ventricular hypertension,left ventricular end diastolic pressure
+lv pressure,left ventricular end diastolic pressure
+lv pressures,left ventricular end diastolic pressure
+left ventricular hypertrophy,left ventricular hypertrophy
+lvh,left ventricular hypertrophy
+posterior wall hypertrophy,left ventricular hypertrophy
+lvld ap4,left ventricular length at end diastole apical
+lvls ap4,left ventricular length at end systole apical
+lv mass c d,left ventricular mass
+lvot,left ventricular outflow tract
+lvot area,left ventricular outflow tract area
+lvot diam,left ventricular outflow tract diameter
+lvot pg,left ventricular outflow tract pressure gradient
+pw thickness d,left ventricular posterior wall thickness at end diastole
+lv posterior wall,left ventricular posterior wall thickness at end diastole
+lvpwt ed,left ventricular posterior wall thickness at end diastole
+lvpw diastolic thickness,left ventricular posterior wall thickness at end diastole
+left ventricular posterior thickness diastolic,left ventricular posterior wall thickness at end diastole
+left ventricular posterior thickness diastolic,left ventricular posterior wall thickness at end diastole
+left ventricular posterior wall in diastole,left ventricular posterior wall thickness at end diastole
+left ventricular posterior wall thickness during diastole,left ventricular posterior wall thickness at end diastole
+left ventricular posterior wall thickness in diastole,left ventricular posterior wall thickness at end diastole
+left ventricular thickness,left ventricular posterior wall thickness at end diastole
+left ventricular wall thickening,left ventricular posterior wall thickness at end diastole
+left ventricular wall thicknes,left ventricular posterior wall thickness at end diastole
+left ventricular wall thickness,left ventricular posterior wall thickness at end diastole
+lv post wall,left ventricular posterior wall thickness at end diastole
+lv posterior wall diastole,left ventricular posterior wall thickness at end diastole
+lv posterior wall thickness,left ventricular posterior wall thickness at end diastole
+lvpd,left ventricular posterior wall thickness at end diastole
+lvpw,left ventricular posterior wall thickness at end diastole
+lvpw dias t,left ventricular posterior wall thickness at end diastole
+lvpw diastole,left ventricular posterior wall thickness at end diastole
+lvpw diastolic thickness,left ventricular posterior wall thickness at end diastole
+lvpw diastolic thickness cm,left ventricular posterior wall thickness at end diastole
+lvpw ed,left ventricular posterior wall thickness at end diastole
+lvpw thickness,left ventricular posterior wall thickness at end diastole
+lvpw thickness ed,left ventricular posterior wall thickness at end diastole
+lvpwd,left ventricular posterior wall thickness at end diastole
+lvpwd 2d,left ventricular posterior wall thickness at end diastole
+lvpwd mm,left ventricular posterior wall thickness at end diastole
+lvpwd thickness,left ventricular posterior wall thickness at end diastole
+post lv wall,left ventricular posterior wall thickness at end diastole
+post wall,left ventricular posterior wall thickness at end diastole
+posterior left ventricular wall thickness,left ventricular posterior wall thickness at end diastole
+posterior wall,left ventricular posterior wall thickness at end diastole
+posterior wall diastole,left ventricular posterior wall thickness at end diastole
+posterior wall diastolic,left ventricular posterior wall thickness at end diastole
+posterior wall thick,left ventricular posterior wall thickness at end diastole
+posterior wall thickness,left ventricular posterior wall thickness at end diastole
+posterior wall thickness diastole,left ventricular posterior wall thickness at end diastole
+posterior wall/diastole,left ventricular posterior wall thickness at end diastole
+pwd,left ventricular posterior wall thickness at end diastole
+pwt,left ventricular posterior wall thickness at end diastole
+wall thickness,left ventricular posterior wall thickness at end diastole
+left ventricular posterior wall in systole,left ventricular posterior wall thickness at end systole
+lvpws,left ventricular posterior wall thickness at end systole
+dilated lv,left ventricular size
+lv dilatation,left ventricular size
+left chamber size,left ventricular size
+left ventricle is normal in size,left ventricular size
+left ventricle is normal size,left ventricular size
+left ventricular cavity enlargement,left ventricular size
+left ventricular cavity size,left ventricular size
+left ventricular chamber size,left ventricular size
+left ventricular dilatation,left ventricular size
+left ventricular enlargement,left ventricular size
+left ventricular size,left ventricular size
+lv cavity,left ventricular size
+overall lv size,left ventricular size
+lvedv,left ventricular volume at end diastole
+lvedvi ml/m2,left ventricular volume at end diastole
+lvesv,left ventricular volume at end systole
+left ventricular wall motion,left ventricular wall motion
+lv wall motion,left ventricular wall motion
+overall left ventricular wall motion,left ventricular wall motion
+lung heart ratio,lung to heart ratio
+lung to heart ratio,lung to heart ratio
+lv segmental wall motion abnormalities,lv segmental wall motion abnormalities
+dt,mitral valve deceleration time
+mv dt,mitral valve deceleration time
+mitral valve function,mitral valve function
+mitral valve leaflets,mitral valve leaflets
+mitral valve mean gradient,mitral valve mean gradient
+mv gradient,mitral valve mean gradient
+mv mean gradient,mitral valve mean gradient
+mr max pg,mitral valve mean gradient
+mitral max grad,mitral valve mean gradient
+mitral orifice,mitral valve orifice area
+mitral valve orifice area,mitral valve orifice area
+mitral valve area,mitral valve orifice area
+mva,mitral valve orifice area
+mva p1 2t,mitral valve orifice area
+mitral valve area dopp,mitral valve orifice area
+mi,mitral valve regurgitation
+mr severity,mitral valve regurgitation
+mitral insufficiency,mitral valve regurgitation
+mitral regurgitation,mitral valve regurgitation
+mitral valve insufficiency,mitral valve regurgitation
+mitral valve regurgitation,mitral valve regurgitation
+mr,mitral valve regurgitation
+mitral valvular regurgitation,mitral valve regurgitation
+mv insufficiency,mitral valve regurgitation
+mv regurgitation,mitral valve regurgitation
+regurgitation of the mitral valve,mitral valve regurgitation
+mitral valve regurgitation mean velocity,mitral valve regurgitation peak velocity
+mr max vel,mitral valve regurgitation peak velocity
+peak velocity across the mitral valve,mitral valve regurgitation peak velocity
+mitral stenosis,mitral valve stenosis
+mitral valve stenosis,mitral valve stenosis
+mv stenosis,mitral valve stenosis
+ddpasp,pulmonary artery pressure
+mpap,pulmonary artery pressure
+pa pressure,pulmonary artery pressure
+mean pa pressure,pulmonary artery pressure
+pa pressure by acc time,pulmonary artery pressure
+pa pressure by tr,pulmonary artery pressure
+pa systolic pressure by tr,pulmonary artery pressure
+pa pressures,pulmonary artery pressure
+pa pressures systolic,pulmonary artery pressure
+pa pulmonary artery,pulmonary artery pressure
+pap,pulmonary artery pressure
+pap d,pulmonary artery pressure
+pap s,pulmonary artery pressure
+pap systolic,pulmonary artery pressure
+pasp,pulmonary artery pressure
+pulmonary arterial hypertension,pulmonary artery pressure
+pulmonary artery pressure,pulmonary artery pressure
+pulmonary artery systolic pressure,pulmonary artery pressure
+pulmonary htn,pulmonary artery pressure
+pulmonary hypertension,pulmonary artery pressure
+pulmonary systolic pressure,pulmonary artery pressure
+pulmonary rate,pulmonary rate
+pulmonary insufficiency,pulmonary valve insufficiency
+pulmonary valve insufficiency,pulmonary valve insufficiency
+pulmonic insufficiency,pulmonary valve insufficiency
+pulmonic valvular regurgitation,pulmonary valve insufficiency
+pv pg,pulmonary valve pressure gradient
+pulmonic valvular stenosis,pulmonary valve stenosis
+regional wall motion abnormalities,regional wall motion abnormality
+regional wall motion abnormality,regional wall motion abnormality
+segmental wall motion abnormalities,regional wall motion abnormality
+segmental wall motion abnormality,regional wall motion abnormality
+respiratory rate,respiratory rate
+ra pressure,right atrial pressure
+ra pressure mean,right atrial pressure
+ra pressures,right atrial pressure
+rap,right atrial pressure
+rap systole,right atrial pressure
+right atrial pressure,right atrial pressure
+right atrial pressures,right atrial pressure
+right ventricular dimension diastolic,right ventricular dimension end diastole
+rvdd,right ventricular dimension end diastole
+right ventricular ejection fraction,right ventricular ejection fraction
+rv ejection fraction,right ventricular ejection fraction
+right ventricular size,right ventricular size
+right ventricular systolic function,right ventricular systolic function
+rvsp,right ventricular systolic pressure
+tid ratio,transient ischemic dilatation ratio
+transient ischemic dilatation ratio,transient ischemic dilatation ratio
+transient ischemic dilatation tid ratio,transient ischemic dilatation ratio
+tr max pg,tricuspid valve mean gradient
+tr mean gradient,tricuspid valve mean gradient
+tricuspid mean gradient,tricuspid valve mean gradient
+tricuspid valve mean gradient,tricuspid valve mean gradient
+tricuspid orifice area,tricuspid valve orifice area
+tricuspid valve orifice area,tricuspid valve orifice area
+peak tricuspid velocity,tricuspid valve peak velocity
+tv peak velocity,tricuspid valve peak velocity
+regurgitation of the tricuspid valve,tricuspid valve regurgitation
+ti,tricuspid valve regurgitation
+tr,tricuspid valve regurgitation
+tr severity,tricuspid valve regurgitation
+tricuspid insufficiency,tricuspid valve regurgitation
+tricuspid regurgitation,tricuspid valve regurgitation
+tricuspid regurgitation grade,tricuspid valve regurgitation
+tricuspid valve regurgitation,tricuspid valve regurgitation
+tricuspid valvular regurgitation,tricuspid valve regurgitation
+tv insufficiency,tricuspid valve regurgitation
+tv regurgitation,tricuspid valve regurgitation
+the maximum velocity of tricuspid regurgitant jet,tricuspid valve regurgitation peak velocity
+ti jet velocity,tricuspid valve regurgitation peak velocity
+tr jet velocity,tricuspid valve regurgitation peak velocity
+tr max vel,tricuspid valve regurgitation peak velocity
+tr max velocity,tricuspid valve regurgitation peak velocity
+tr peak,tricuspid valve regurgitation peak velocity
+tr peak velocity,tricuspid valve regurgitation peak velocity
+tr vel,tricuspid valve regurgitation peak velocity
+tr velocity,tricuspid valve regurgitation peak velocity
+tricuspid insufficiency with peak velocity,tricuspid valve regurgitation peak velocity
+tricuspid regurgitant maximum jet velocity,tricuspid valve regurgitation peak velocity
+tricuspid regurgitant velocity,tricuspid valve regurgitation peak velocity
+tricuspid regurgitant vmax jet velocity,tricuspid valve regurgitation peak velocity
+tricuspid regurgitation was noted with a velocity,tricuspid valve regurgitation peak velocity
+tricuspid regurgitation with a velocity,tricuspid valve regurgitation peak velocity
+tricuspid regurgitation with tricuspid velocity maximum,tricuspid valve regurgitation peak velocity
+tricuspid regurgitation with velocity,tricuspid valve regurgitation peak velocity
+tricuspid valve regurgitation peak velocity,tricuspid valve regurgitation peak velocity
+tricuspid valve velocity,tricuspid valve regurgitation peak velocity
+vmax jet velocity,tricuspid valve regurgitation peak velocity
+ti jet vel,tricuspid valve regurgitation peak velocity

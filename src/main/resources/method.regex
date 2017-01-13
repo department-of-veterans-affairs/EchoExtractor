@@ -1,0 +1,12 @@
+(m ?(\-)? ?mode|simpson.?s?|simpon.?s biplane|biplane\s+simpson'?s?)((\s)*(rule|method))?
+(2(\-)?d echo)
+(((aortic|mitral|tricuspid\/pulmonary|spectral|2(\-)?d\w*)\s)?doppler( echocardiography| color flow| echo)?)
+ventriculogram
+bullet formula
+quantitative gated spect \(qgs\)
+dopp(ler)?
+echo
+\bplax?\b
+\(by modified quinonez equation\)
+\bby tr\b
+\bby acc\. time\b

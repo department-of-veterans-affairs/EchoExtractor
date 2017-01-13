@@ -1,0 +1,23 @@
+/input/
+/output/
+/target
+/.classpath
+/.project
+/bin
+.DS_Store
+/.metadata
+/.settings
+/data
+/ExampleLog.log
+/EchoLog.log
+/amq
+/src/test/resources/output
+/src/test/resources/Shortcut to Templates.lnk
+/.idea
+/Copy of EchoLog_EndAug14.log
+/EchoLog - Copy.log
+/ValidationInstructions.txt
+*.log
+*.iml
+
+

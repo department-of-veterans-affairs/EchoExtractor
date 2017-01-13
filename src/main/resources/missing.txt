@@ -1,0 +1,33 @@
+TRACE TV AND PV REGURGITATION. Tricuspid valve and Pulmonary Valve, 0_1.txt concept 21.
+ 
+TR and/or pulmonary HTN cannot be 
+ excluded but there is D-shape. Tricuspid Valve Regurgitation., 0_2.txt, concept 21
+ 
+PULMONARY ARTERY DIASTOLIC/PULMONARY CAPILLARY WEDGE PRESSURE 
+    ESTIMATED AND ELEVATED AT 21MMHG. Pulmonary artery diastolic, 1.txt, concept 17
+	
+10 mmHg was added in the calculation for the 
+right atrial pressure estimate. Right atrial pressure, 13.txt, concept 18
+
+ tricuspid regurgitation, Tricuspid regurgitation mild, template17.txt, concept 21
+ 
+ [X] TRACE mitral regurgitation, template19.txt, concept 14
+ [X] MILD tricuspid regurgitation. template19.txt, concept 21
+ 
+Left ventricular ejection fraction. Template21.txt in list of abbreviations, concept 11
+
+The patient has had an LV ejection fraction measured at > or equal to
+  50%., template 22.txt, LV ejection fraction, Left Ventricular ejection fraction concept 11
+ 
+ Estimated RA pressure       [x]6 , Estimated Right Artiral pressure, template25.txt, concept 18
+ Estimated PASP:31mmHg, Pulmonary Arterial Systolic Pressure:31mmHg, template25.txt, concept 17
+ 
+  E/E'............................8.5/14.3, E/E Prime ratio, template 25_2, concept 6
+  
+  
+
+ 
+ 
+
+
+

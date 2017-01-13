@@ -1,0 +1,13 @@
+(\b((gross\s)?(evidence|indication)\s+(of|for)|(lower|upper)\s+(limits?|range)\s+of(\s+normal)?|(uniformly\s+)?normal(ly)?(\s*size)?|\[x\]|\blow(er)?\b|\bno\b|\bnone\b|abnorma\w+|adequate(ly)?|akinetic|hemodynamical(ly)?|bad|borderline|chang(es|ed|ing|e)|concent\w+|d(i|y)sfunction|decreas(es|ed|ing|e)|depressed|deteriorat(es|ed|ing|e)|difficult\s+to\s+quantify|dilat(ed|ion|ing|e|ation)|diminish(es|ed|ing)|eccentric|elevat(es|ed|ing|e|ion)|enlarg(es|ed|ing|e)|good|healthy|impair(es|ed|ing)|improv(es|ed|ing|e)|inadequate|increas(es|ed|ing|e)|intact|limited|mild(ly)?|minimal(l?y)?|moderate(l?y)?|not?|obliterat(ion|ed)|poor(ly)?|possibl(e|y)|present|preserv(ed|es|ing|e)|probabl(e|y)|reduc(es|ing|e)|restricted|reduced|relatively|sclerotic|severe?r?(ly)?|significant(ly)?|strong|subtle|sufficient(ly)?|technical(ly)?|thicken(ed|ing)|thin(ned|ning|ness)?|tight(ly)?|to|trace|trivial(l?y)?|upper|very|weak|well|without)(\s+|\-|\/|\)|\()?)+\b(\+)?
+not (seen|measured)
+(1\+(\/)?|(\-)?2\+|3\+|2\-3\+|(\/)?4\+)+
+hypokinesis|akinesis|hypokinetic
+hypertroph\w+|calcif(ication|ied)|fibrocalcifi\w+|hyperdynamic
+within\s(the\s)?normal\srange|\bwnl\b|\bnl\b
+no masses
+moderate to severerly decreased
+normal to upper normal
+normal\s+in\s+size
+enlargement
+(hypertension|\bhtn\b)
+no abnormality detected

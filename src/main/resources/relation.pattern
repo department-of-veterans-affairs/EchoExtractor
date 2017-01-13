@@ -1,0 +1,56 @@
+#3.9__cm LV systole
+\r\n( |_)*<gov.va.vinci.echo.types.NumericValue/>( |_)*<gov.va.vinci.echo.types.Units/>( |_)*<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>
+
+#3.8cm LV End Systolic Dimension
+\r\n( |_)*<gov.va.vinci.echo.types.NumericValue/>( |_)*<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>
+
+#1.3__cm LV Post Wall Normal 0.6-1.1
+\r\n( |_)*<gov.va.vinci.echo.types.NumericValue/>( |_)*<gov.va.vinci.echo.types.Units/> +<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/> *<gov.va.vinci.echo.types.Range/>
+\r\n *<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>, *<gov.va.vinci.echo.types.QValue/> *\r\n
+
+#pulmonary htn , left ventricle is normal in size
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>
+
+# LV Diastolic Diameter PLA 5.7 cm
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/> *<!target><gov.va.vinci.echo.types.Method/><!target/> *<gov.va.vinci.echo.types.NumericValue/> *<gov.va.vinci.echo.types.Units/>
+
+# Left ventricular systolic function is normal
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.QValue/>
+#  LEFT ATRIUM     (2.0-4.0cm): 3.6
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/> *<gov.va.vinci.echo.types.Range/>((\.\.)+(\.)?|:) *<gov.va.vinci.echo.types.NumericValue/>
+
+#
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.QValue/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>( *(\r\n)? *)<gov.va.vinci.echo.types.Units/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>(\*| |_)*<gov.va.vinci.echo.types.Range/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>(\*| ||_)*<gov.va.vinci.echo.types.Units/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<!target><gov.va.vinci.echo.types.Method/><!target/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>( *(\r\n)? *)<gov.va.vinci.echo.types.Units/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<!target><gov.va.vinci.echo.types.Method/><!target/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>(\*| |_)*<gov.va.vinci.echo.types.Units/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/> *<gov.va.vinci.echo.types.Range/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*)*<gov.va.vinci.echo.types.QValue/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.MiddleStuff/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.NumericValue/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>(\*| )*<gov.va.vinci.echo.types.Units/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>(\*| )*<gov.va.vinci.echo.types.Units/>( *(\r\n)? *)<gov.va.vinci.echo.types.Range/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.NumericValue/>( *(\r\n)? *)<gov.va.vinci.echo.types.Range/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.Range/> *<gov.va.vinci.echo.types.NumericValue/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.Range/> *<gov.va.vinci.echo.types.NumericValue/>(\*| )*<gov.va.vinci.echo.types.Units/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.Range/>( |\t|\||\*|-)*<gov.va.vinci.echo.types.NumericValue/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.Range/>( |\t|\||\*|-)*<gov.va.vinci.echo.types.NumericValue/>(\*| )*<gov.va.vinci.echo.types.Units/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.NumericValue/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.NumericValue/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.Range/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.NumericValue/>(\*| |_)*<gov.va.vinci.echo.types.Units/>( |\t|\||\*|_)*<gov.va.vinci.echo.types.Range/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.NumericValue/>(\*| |=|-|_)*<gov.va.vinci.echo.types.Units/>
+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( |\t|\||\*|=|-|_)*<gov.va.vinci.echo.types.Range/>( |\t|\||\*|-|_)*<gov.va.vinci.echo.types.NumericValue/>
+there\s(was|is)\s+<gov.va.vinci.echo.types.QValue/>( *(\r\n)? *)<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>\.
+(there\s(was|is)|the)\s+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>\.
+(there\s(was|is)|the)\s+<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>\s+<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.QValue/>\.
+there\s(was|is)( *(\r\n)? *)<gov.va.vinci.echo.types.QValue/>( *(\r\n)? *)<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<gov.va.vinci.echo.types.QValue/>\.
+
+# This statement is very common but sometimes causes issues when it overruns lines. 
+<gov.va.vinci.echo.types.QValue/>( *(\r\n)? *)<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>
+
+<gov.va.vinci.echo.types.QValue/>( *(\r\n)? *)<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/> *<gov.va.vinci.echo.types.QValue/>
+<gov.va.vinci.echo.types.QValue/>( *(\r\n)? *)<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/> *<gov.va.vinci.echo.types.QValue/>
+<gov.va.vinci.echo.types.QValue/>( *(\r\n)? *)<gov.va.vinci.echo.types.MiddleStuff/>( *(\r\n)? *)<!anchor><gov.va.vinci.echo.types.Mapping/><!anchor/>
+# lvef is preserved at 65%
