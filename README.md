@@ -119,11 +119,3 @@ The output into a database or csv file has the following columns:
 </table>
 
 
-----------------------
-
-Performance stats:
-1. with 3 services, 10 instances, 500 cas pool each:
-1.1 Client finished in: 0:59:30.659 after processing 46701 records: INSERT INTO ORD_Joseph_201409027D.[nlp].[nlpOut_Sta3n_575_20150325]
-1.1 Client finished in: 0:24:21.624 after processing 37934 records: INSERT INTO ORD_Joseph_201409027D.[nlp].[nlpOut_Sta3n_358_20150325]
-1.1 Client finished in: 1:00:05.541 after processing 47122 records: INSERT INTO ORD_Joseph_201409027D.[nlp].[nlpOut_Sta3n_687_20150325]
-1.1 Client finished in: 1:13:03.345 after processing 55441 records: INSERT INTO ORD_Joseph_201409027D.[nlp].[nlpOut_Sta3n_679_20150325]
