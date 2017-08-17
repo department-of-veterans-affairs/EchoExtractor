@@ -67,7 +67,12 @@
         <!-- Core Leo dependency -->
         <dependency>
             <groupId>gov.va.vinci.leo</groupId>
-            <artifactId>leo-base</artifactId>
+            <artifactId>leo-client</artifactId>
+            <version>2017.01.2</version>
+        </dependency>
+	<dependency>
+            <groupId>gov.va.vinci.leo</groupId>
+            <artifactId>leo-service</artifactId>
             <version>2017.01.2</version>
         </dependency>
 
