@@ -1,5 +1,8 @@
 EchoExtractor
 =============
+If using this system, please cite:
+
+Patterson OV, Freiberg MS, Skanderson M, et al (2017) Unlocking echocardiogram measurements for heart disease research through natural language processing. BMC Cardiovasc Disord 17:151 . doi: 10.1186/s12872-017-0580-8
 
 Project description:
 --------------------
