@@ -41,6 +41,33 @@ The goal of the current application is to extract Concept-Value pairs for metric
 </dd>
 </dl>
 
+## Installation and deployment
+ 
+
+EchoExtractor is based on Leo architecture extending UIMA AS. For more info on Leo [http://department-of-veterans-affairs.github.io/Leo/]
+To use EchoExtractor:
+
+Follow the instructions to install and configure UIMA AS Steps 2.1-2.9.
+- Start UIMA AS Broker.
+- Configure EchoExtractor reader and listeners.
+- Five readers are available:
+    - FileCollectionReaderConfig.groovy - Enter the path to input directory to read simple text files. The files need to have .txt extention.
+    - BatchDatabaseCollectionReaderConfig.groovy - Enter the database engine, database name, and input query. Update the batch parameters. If you have only one batch, change the ending index to be less than the batch size. If you are using this reader for batch reads, add sequential numbering column called "RowNo" to your input table. The tags {min} and {max} will be automatically replaced with starting and ending RowNo for each batch until edning RowNo reaches the last endingIndex.
+    - SQLServerPagedDatabaseCollectionReaderConfig.groovy - Enter the database engine, database name, and input query. Make sure the input query ends with "order by" clause. The query will be automatically transformed for SQL Server fetching new batch with offset row number. This approach becomes very slow when the number of records reaches over 2.5M records. MS SQL Server queries become very slow at that point.
+   - MySQLBatchDatabaseCollectionReaderConfig.groovy - Enter the database engine, database name, and input query.
+            KnowtatorCollectionReaderConfig.groovy -
+- Eight listeners are available:
+    - SimpleCsvListenerConfig.groovy - Enter the path to the output directory. A new file will be created with a standard output.
+    - SimpleXmiListenerConfig.groocy - Enter the path to the output directory. A new directory with xmi files will be created.
+    - CsvListenerConfig.groovy - this is an example of a custom CSV listener
+    - DatabaseListenerConfig.groovy - this is an example of a custom database listener.
+    - AuCompareCsvListenerConfig.groovy -
+    - AuCompareSummaryListenerConfig.groovy -
+    - KnowtatorListenerConfig.groovy -
+    - MySQLDatabaseListenerConfig.groovy - this is an example of a custom database listener using mysql.
+
+Use runService.sh or runService.bat script to start the service.
+Modify runClient.sh or runClient.bat script with the selected readers and listeners and start the client.
 
 System Description
 ---------------------
