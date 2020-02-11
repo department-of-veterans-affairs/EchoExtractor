@@ -25,7 +25,7 @@
     <repositories>
         <repository>
             <id>decipher</id>
-            <url>http://decipher.chpc.utah.edu/nexus/content/groups/public</url>
+            <url>https://decipher.chpc.utah.edu/nexus/content/groups/public</url>
         </repository>
     </repositories>
 
